@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "node-gitdashboard", "node-gitdashboard.njsproj", "{4683C2A0-8834-4B91-BA43-C10980106BB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4683C2A0-8834-4B91-BA43-C10980106BB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4683C2A0-8834-4B91-BA43-C10980106BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4683C2A0-8834-4B91-BA43-C10980106BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4683C2A0-8834-4B91-BA43-C10980106BB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C915DA89-81FD-48A2-9DDA-031158026027}
+	EndGlobalSection
+EndGlobal
