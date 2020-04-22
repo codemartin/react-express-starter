@@ -22,3 +22,5 @@ yarn-debug.log*
 yarn-error.log*
 *.user
 .vs/node-gitdashboard/v16/.suo
+*.cache
+obj/Debug/node-gitdashboard.njsproj.FileListAbsolute.txt

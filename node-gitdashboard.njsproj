@@ -32,7 +32,6 @@
     <Content Include="src\serviceWorker.js" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="node-gitdashboard" />
     <Folder Include="public" />
     <Folder Include="server" />
     <Folder Include="src" />
